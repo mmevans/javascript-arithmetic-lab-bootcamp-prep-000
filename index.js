@@ -18,7 +18,7 @@ console.log(number)
 
 // reset number
 
-number 10
+numberv = 10
 
 add5()
 
