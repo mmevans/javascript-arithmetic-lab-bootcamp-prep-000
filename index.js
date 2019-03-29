@@ -13,3 +13,12 @@ function divide(a, b) {
 function multiply(a, b) {
   
 }
+
+function inc(n) {
+  
+}
+
+function dec(n) {
+  
+}
+
